@@ -2,6 +2,5 @@
 *.a
 *.d
 *.c.*
-*geometry
 *.save
 
