@@ -3,4 +3,6 @@
 *.d
 *.c.*
 *.save
+geometry
+geometry-test
 
