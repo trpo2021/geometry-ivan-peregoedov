@@ -1,8 +1,6 @@
 *.o
-*.a
 *.d
-*.c.*
-*.save
-geometry
-geometry-test
-
+*.a
+.*.swp
+main.c~
+#main.c#
